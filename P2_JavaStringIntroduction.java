@@ -42,6 +42,7 @@ public class P2_JavaStringIntroduction {
         Scanner sc=new Scanner(System.in);
         String A=sc.next();
         String B=sc.next();
+        
         /* Enter your code here. Print output to STDOUT. */
         
         int sumLength=A.length()+B.length();
